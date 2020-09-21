@@ -1,5 +1,6 @@
 # Data Structures and Algorithms Specialization
-This repository contains my own solutions for course's assignments
+This repository contains my own solutions for course's assignments  
+Please, don't copy any code if you enroll this course too
 
 ## About Specialization
 Specialization contains 4 courses offered by University of California San Diego (USA) and National Research University Higher School of Economics (Russia):  
